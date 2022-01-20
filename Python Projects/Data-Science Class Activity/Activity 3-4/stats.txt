@@ -1,0 +1,3 @@
+Number of lines is 54 
+Number of words is 498 
+Most frequently used word is [('the', 44)] 
